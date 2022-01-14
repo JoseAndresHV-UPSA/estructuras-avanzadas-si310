@@ -1,4 +1,4 @@
-# Estructura de Datos Avanzadas (SI310`)
+# Estructura de Datos Avanzadas (SI310)
 
 ### Contenido
 - [Lista Encadenada](https://github.com/JoseAndresHV-UPSA/estructuras-avanzadas-si310/tree/master/ListaEncadenada)
